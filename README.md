@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-gavin heer, gavin.heer@quickmobile.com
+gavin heer, 
 
 ## License
 
